@@ -1,15 +1,14 @@
-# BrainWave - Modern UI/UX website using Next.js, TypeScript & Tailwind CSS
+# Modern UI/UX website using Next.js, TypeScript & Tailwind CSS
 
 <div id="top"></div>
 
 <div align="center">
-  <h1 align="center">Figma to Next.js</h1>
 
- <img src="https://github.com/IamShafi/Dev-Forum/blob/master/assets/mockup.png"/>
+ <img src="https://github.com/IamShafi/Figma-to-Next.js-typescript-tailwindcss--project_brainwave/blob/master/assets/mockup.png"/>
 
 > ~
 >
-> <h3 align="center">Modern UI/UX website.</h3>
+> <h3 align="center">Figma to Next.js</h3>
 
 > <p align="center">
 >   <img src="https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=next.js&logoColor=white" />
